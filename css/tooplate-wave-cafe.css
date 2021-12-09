@@ -407,7 +407,7 @@ h2 { margin-top: 0; }
 
 .loader-container img{
     width:15rem;
- border-radius:50%;
+ border-radius:30%;
 }
 
 .loader-container.fade-out{
